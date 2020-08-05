@@ -1,4 +1,4 @@
 # IGTI_Data_Science
 
-- Códigos do Bootcamp de cientista de dados da IGTI
-- Datasets utilizados em algumas análises 
+- Códigos do Bootcamp de Cientista de Dados da IGTI
+- Datasets utilizados em algumas análises
